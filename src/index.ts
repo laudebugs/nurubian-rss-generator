@@ -28,6 +28,7 @@ const nurubianUrl = 'https://nurubian.com/sitemap.xml'
 const getSiteMap = () => fetch(nurubianUrl)
 type TPath = {
     loc: Array<string>
+    lastmod: Array<string>
 }
 const urlsToFilter = [
     "https://nurubian.com/team",
@@ -68,6 +69,13 @@ async function run() {
         
         const links: Array<TPath> = result.urlset.url
             .filter((url: TPath) => !urlsToFilter.includes(url.loc[0]))
+
+        // make dir called data
+        if (!fs.existsSync('data')) {
+            fs.mkdirSync('data')
+        }
+
+        fs.writeFileSync('data/links.json', JSON.stringify(links, null, 2))
         const feedItems: Array<FeedItem> = []
         for await (const url of links) {
             const loc = url.loc[0]
@@ -80,7 +88,7 @@ async function run() {
                 loc,
                 metadata.description ?? '',
                 metadata.description ?? '',
-                new Date(metadata.date ?? new Date()),
+                new Date(url.lastmod.at(0) ?? new Date()),
                 new FeedItemImage(metadata.image ?? '',1500,1500),
                 [feed.author],
             )
@@ -88,10 +96,7 @@ async function run() {
         }
         feed.items = feedItems
         const rssFeed = feed.generateRSS()
-        // make dir called data
-        if (!fs.existsSync('data')) {
-            fs.mkdirSync('data')
-        }
+
         fs.writeFileSync('data/feed.xml', rssFeed)
     })
 }
