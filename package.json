@@ -1,0 +1,33 @@
+{
+  "name": "nurubian-rss-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "feed-core": "^1.1.6",
+    "i": "^0.3.7",
+    "metascraper": "^5.45.10",
+    "metascraper-author": "^5.45.10",
+    "metascraper-date": "^5.45.10",
+    "metascraper-description": "^5.45.10",
+    "metascraper-image": "^5.45.10",
+    "metascraper-logo": "^5.45.10",
+    "metascraper-publisher": "^5.45.10",
+    "metascraper-title": "^5.45.10",
+    "metascraper-url": "^5.45.10",
+    "node-fetch": "^3.3.2",
+    "npm": "^10.8.1",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@types/xml2js": "^0.4.14",
+    "prettier": "^3.3.1"
+  }
+}
