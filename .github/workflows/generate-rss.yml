@@ -48,7 +48,7 @@ jobs:
       run: pnpm run build
     - name: Update Rss Feeds and Archive 🦄
       run: |
-          node dist/update-links.js
+          node dist/index.js
     - name: Verify Changed files 🐒
       uses: tj-actions/verify-changed-files@v8.3
       id: verify-changed-files
