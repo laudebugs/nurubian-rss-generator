@@ -1,6 +1,100 @@
 [
   {
     "loc": [
+      "https://nurubian.com/blog-2-1"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-06-25"
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/blog-2-1/blog-post-title-four-x9x9c"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2020-05-20"
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/blog-2-1/blog-post-title-three-n5xxh"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2020-05-20"
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/blog-2-1/blog-post-title-two-m27y2"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2020-05-20"
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/blog-2-1/blog-post-title-one-g7rcb"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-06-25"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/36700768-0d71-4c40-a269-0ee02d75536b/image1.gif"
+        ],
+        "image:title": [
+          "Blog 2 - The Imperative to Build Internet Resilience - Make it stand out"
+        ],
+        "image:caption": [
+          "Whatever it is, the way you tell your story online can make all the difference."
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/b286ee64-7887-4fa0-8ad7-9b72e8899b5b/tembisa_internet-of-things.png"
+        ],
+        "image:title": [
+          "Blog 2 - The Imperative to Build Internet Resilience - Make it stand out"
+        ],
+        "image:caption": [
+          "Prompt: A Vast Collage of Smartphones & Tablets."
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
       "https://nurubian.com/remittances-african-development"
     ],
     "changefreq": [
@@ -135,6 +229,112 @@
   },
   {
     "loc": [
+      "https://nurubian.com/home-old-2"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-06-26"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/df7c9c5d-3675-4729-b3d7-f2e561052bc8/coco_3XL.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/2670c1f5-9020-4b94-9d3b-10fbedffb080/sankofa.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1712955229234-7CPW95IEVGN8ZWTPIJNM/img_informal-economy.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/50618ad1-5c4e-4d8d-af5b-ba633ef8ff79/Situating-Africa-Within-the-Global-Sustainability-Agenda_1.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/68a69937-a6b5-40d6-a001-3bfd965c07e4/img_the-reimagining-of-african-indigenous-education.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1699136258056-ROCJW5CR6UOEIVN9I7OB/villages.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/79879e11-b069-400d-bee6-38f71097f2c7/spotify.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/46875cfe-7924-4d66-8fc3-03431836bee8/EditorsNote_3a_Transparent.gif"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1698782190677-709O4VXCH1X7N6P0VP8D/ai-democratization2.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/bb2646eb-766b-4c26-9710-fe22275e4fcf/3_women-and-trade.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/d694121f-573f-423f-bc81-ea0e0dc138e5/unlocking-financial-inclusion.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/c1f351e6-dc74-48f6-9f82-13fcc2a00f46/kenyan-liberation_upscaled.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/2f137cc5-9996-44e0-a8c3-c370a40a7b41/how-much-a-dollar-costs.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/34750e50-a6b0-4390-89fd-b4d6b6f8a03d/remittances_v4_the-nurubian_upscaled.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/373e89b8-85a9-4e70-a529-67a053814022/pawns-and-kings_upscaled_v3.jpeg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1a23de01-0433-4519-9685-92f913297dfa/african-wind-farm_v1_upscaled.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/ed75edf8-cad7-428f-bd85-7a0825bfedcc/star_shield-arch_cover_the-nurubian.png"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
       "https://nurubian.com/unlocking-financial-inclusion"
     ],
     "changefreq": [
@@ -144,7 +344,7 @@
       "0.75"
     ],
     "lastmod": [
-      "2024-05-03"
+      "2024-06-25"
     ],
     "image:image": [
       {
@@ -646,7 +846,7 @@
   },
   {
     "loc": [
-      "https://nurubian.com/vol-ii-edition-apr-24-1-1"
+      "https://nurubian.com/vol-ii-edition-apr-24-1-1-1"
     ],
     "changefreq": [
       "daily"
@@ -675,7 +875,22 @@
       },
       {
         "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9b9df5a1-884d-43ec-bfcb-8d2d07385d02/DALL%C2%B7E+2023-06-15+16.26.52.png"
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/df7c9c5d-3675-4729-b3d7-f2e561052bc8/coco_3XL.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/2670c1f5-9020-4b94-9d3b-10fbedffb080/sankofa.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1712955229234-7CPW95IEVGN8ZWTPIJNM/img_informal-economy.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/df7c9c5d-3675-4729-b3d7-f2e561052bc8/coco_3XL.png"
         ]
       },
       {
@@ -690,7 +905,17 @@
       },
       {
         "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/b1492de4-d947-400f-85dc-b191afc1704a/DALL%C2%B7E+2023-01-28+18.28.55+-+a+detailed+oil+on+canvas+painting+of+a+radio+show+recording+where+there+are+2+black+men+laughing%2C+sharing+a+smoke%2C+and+a+drink%2C+earthy+tones.png"
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9b9df5a1-884d-43ec-bfcb-8d2d07385d02/DALL%C2%B7E+2023-06-15+16.26.52.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/2e0034ee-4120-4e2e-abed-8c47f6658489/DALL%C2%B7E+2022-10-28+03.39.52+-+a+detailed+oil+painting+of+africans+using+their+phones+to+pay.png"
         ]
       },
       {
@@ -705,12 +930,7 @@
       },
       {
         "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/2e0034ee-4120-4e2e-abed-8c47f6658489/DALL%C2%B7E+2022-10-28+03.39.52+-+a+detailed+oil+painting+of+africans+using+their+phones+to+pay.png"
-        ]
-      },
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/b1492de4-d947-400f-85dc-b191afc1704a/DALL%C2%B7E+2023-01-28+18.28.55+-+a+detailed+oil+on+canvas+painting+of+a+radio+show+recording+where+there+are+2+black+men+laughing%2C+sharing+a+smoke%2C+and+a+drink%2C+earthy+tones.png"
         ]
       },
       {
@@ -721,6 +941,63 @@
       {
         "image:loc": [
           "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/68a69937-a6b5-40d6-a001-3bfd965c07e4/img_the-reimagining-of-african-indigenous-education.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/test-article"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-06-25"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/ed75edf8-cad7-428f-bd85-7a0825bfedcc/star_shield-arch_cover_the-nurubian.png"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/the-imperative-to-build-internet-resilience"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-06-27"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/ed75edf8-cad7-428f-bd85-7a0825bfedcc/star_shield-arch_cover_the-nurubian.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/36700768-0d71-4c40-a269-0ee02d75536b/image1.gif"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/df7c9c5d-3675-4729-b3d7-f2e561052bc8/coco_3XL.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1712955229234-7CPW95IEVGN8ZWTPIJNM/img_informal-economy.jpg"
         ]
       }
     ]
