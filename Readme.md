@@ -1,1 +1,1 @@
-# Nurubuan RSS Generator
+# Nurubian RSS Generator
