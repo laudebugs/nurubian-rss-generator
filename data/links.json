@@ -734,5 +734,323 @@
         ]
       }
     ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/images"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/art-work"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/free"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/paid"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/sankofa"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721818052660-KWXDPW6F3X3GA9PZ3Y9E/ael-sakofa-poster.jpg"
+        ],
+        "image:title": [
+          "Store - Sankofa — Digital Download"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721817764217-L6AQQGXAP9LDCBVKSDRZ/ael-sankofa-og.jpg"
+        ],
+        "image:title": [
+          "Store - Sankofa — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/tembisa-market"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721818609170-E5356YX37OHUQAZVK026/ael_tembisa-market_poster.jpg"
+        ],
+        "image:title": [
+          "Store - Tembisa Market  — Digital Download"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721818619451-GC18C9FQNHAUHL53XSJ2/ael_tembisa-market_og.jpg"
+        ],
+        "image:title": [
+          "Store - Tembisa Market  — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/grow-a-forest"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721819310968-YXE3R78D8RVKCEVOQBLB/ael_grow-a-forest_og.jpg"
+        ],
+        "image:title": [
+          "Store - Grow A Forest — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/1k-celebration"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721819458551-44906V5YUSE728BJUGEQ/ael_1k_og.jpg"
+        ],
+        "image:title": [
+          "Store - 1K Celebration — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/rejected-coco-boy"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721819748299-ZJ72OKOGEPZ2YT13CQHW/ael_coco-rejected_og.jpg"
+        ],
+        "image:title": [
+          "Store - Rejected: Coco Boy — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/d7hc567lnicsdutlgxg5mzjmuq7ypi"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721820417586-U0L3EX3LZAYIHLQVROI4/ael_african-education_og.jpg"
+        ],
+        "image:title": [
+          "Store - African Education — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/romance-in-tembisa"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721820674349-NXS5H4SSMQRW4C3GNY96/ael_romance-ine-tembisa_poster.jpg"
+        ],
+        "image:title": [
+          "Store - Romance in Tembisa — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/the-people"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721823498258-IIF8ERGFWSQ88G7OGT2D/ael_the-people_poster.jpg"
+        ],
+        "image:title": [
+          "Store - The People  — Digital Download"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721823526921-T23AVFKYJBRTQ011Z57F/ael_the-people_tablet.jpg"
+        ],
+        "image:title": [
+          "Store - The People  — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/like-father-like-son-digital-download"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721824584278-OP8QPZ2FYT8L2E5OZCAV/ael_like-father-like-son_poster.jpg"
+        ],
+        "image:title": [
+          "Store - Like Father, Like Son — Digital Download"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721824730813-4XONXN1E48GV7COJXCIS/ael_like-father-like-son_og.jpg"
+        ],
+        "image:title": [
+          "Store - Like Father, Like Son — Digital Download"
+        ]
+      }
+    ]
   }
 ]
