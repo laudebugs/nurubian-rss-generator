@@ -746,7 +746,7 @@
       "0.75"
     ],
     "lastmod": [
-      "2024-08-03"
+      "2024-08-05"
     ],
     "image:image": [
       {
@@ -768,7 +768,7 @@
   },
   {
     "loc": [
-      "https://nurubian.com/perspectives-blog"
+      "https://nurubian.com/perspectives"
     ],
     "changefreq": [
       "daily"
@@ -777,12 +777,12 @@
       "0.75"
     ],
     "lastmod": [
-      "2024-08-03"
+      "2024-08-05"
     ],
     "image:image": [
       {
         "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/41f0ebb1-9bca-4886-bb3f-10ca6e4695e4/tembisa-perspectives.jpg"
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9ebb1157-fb3d-4b4c-8c6b-70e84f729161/tembisa_perspectives_img.png"
         ]
       },
       {
@@ -799,7 +799,7 @@
   },
   {
     "loc": [
-      "https://nurubian.com/store-2"
+      "https://nurubian.com/balancing-act-operating-between-privilege-and-responsibility-1"
     ],
     "changefreq": [
       "daily"
@@ -808,18 +808,135 @@
       "0.75"
     ],
     "lastmod": [
-      "2024-07-24"
+      "2024-08-05"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/54c83705-a5c9-48db-8376-cd3c5122f0b2/tembisa-tight-ropes.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1712955229234-7CPW95IEVGN8ZWTPIJNM/img_informal-economy.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/df7c9c5d-3675-4729-b3d7-f2e561052bc8/coco_3XL.png"
+        ]
+      }
     ]
   },
   {
     "loc": [
-      "https://nurubian.com/store-2/images"
+      "https://nurubian.com/index-perspectives"
     ],
     "changefreq": [
-      "monthly"
+      "daily"
     ],
     "priority": [
-      "0.5"
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-08-05"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9d59ce0d-8d0f-46b7-ad9c-b23fa98d0162/23Artboard+1+copy+35%402x-100.jpg"
+        ],
+        "image:title": [
+          "Perspectives Index"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/home-5"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-08-06"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/c56f6ab9-68e8-477a-9adb-e1c3d3f0765e/tembisa-tight-ropes.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/b286ee64-7887-4fa0-8ad7-9b72e8899b5b/tembisa_internet-of-things.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/df7c9c5d-3675-4729-b3d7-f2e561052bc8/coco_3XL.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/ed75edf8-cad7-428f-bd85-7a0825bfedcc/star_shield-arch_cover_the-nurubian.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/5a98d4e9-3ae6-4931-8575-596695c8f3b5/feature.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/2670c1f5-9020-4b94-9d3b-10fbedffb080/sankofa.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/50618ad1-5c4e-4d8d-af5b-ba633ef8ff79/Situating-Africa-Within-the-Global-Sustainability-Agenda_1.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/68a69937-a6b5-40d6-a001-3bfd965c07e4/img_the-reimagining-of-african-indigenous-education.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1698782190677-709O4VXCH1X7N6P0VP8D/ai-democratization2.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1699136258056-ROCJW5CR6UOEIVN9I7OB/villages.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/ed75edf8-cad7-428f-bd85-7a0825bfedcc/star_shield-arch_cover_the-nurubian.png"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
     ],
     "lastmod": [
       "2024-07-24"
@@ -855,6 +972,20 @@
   },
   {
     "loc": [
+      "https://nurubian.com/store-2/images"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ]
+  },
+  {
+    "loc": [
       "https://nurubian.com/store-2/paid"
     ],
     "changefreq": [
@@ -869,7 +1000,7 @@
   },
   {
     "loc": [
-      "https://nurubian.com/store-2/p/sankofa"
+      "https://nurubian.com/store-2/p/like-father-like-son-digital-download"
     ],
     "changefreq": [
       "monthly"
@@ -883,170 +1014,18 @@
     "image:image": [
       {
         "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721818052660-KWXDPW6F3X3GA9PZ3Y9E/ael-sakofa-poster.jpg"
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721824584278-OP8QPZ2FYT8L2E5OZCAV/ael_like-father-like-son_poster.jpg"
         ],
         "image:title": [
-          "Store - Sankofa — Digital Download"
+          "Store - Like Father, Like Son — Digital Download"
         ]
       },
       {
         "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721817764217-L6AQQGXAP9LDCBVKSDRZ/ael-sankofa-og.jpg"
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721824730813-4XONXN1E48GV7COJXCIS/ael_like-father-like-son_og.jpg"
         ],
         "image:title": [
-          "Store - Sankofa — Digital Download"
-        ]
-      }
-    ]
-  },
-  {
-    "loc": [
-      "https://nurubian.com/store-2/p/tembisa-market"
-    ],
-    "changefreq": [
-      "monthly"
-    ],
-    "priority": [
-      "0.5"
-    ],
-    "lastmod": [
-      "2024-07-24"
-    ],
-    "image:image": [
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721818609170-E5356YX37OHUQAZVK026/ael_tembisa-market_poster.jpg"
-        ],
-        "image:title": [
-          "Store - Tembisa Market  — Digital Download"
-        ]
-      },
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721818619451-GC18C9FQNHAUHL53XSJ2/ael_tembisa-market_og.jpg"
-        ],
-        "image:title": [
-          "Store - Tembisa Market  — Digital Download"
-        ]
-      }
-    ]
-  },
-  {
-    "loc": [
-      "https://nurubian.com/store-2/p/grow-a-forest"
-    ],
-    "changefreq": [
-      "monthly"
-    ],
-    "priority": [
-      "0.5"
-    ],
-    "lastmod": [
-      "2024-07-24"
-    ],
-    "image:image": [
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721819310968-YXE3R78D8RVKCEVOQBLB/ael_grow-a-forest_og.jpg"
-        ],
-        "image:title": [
-          "Store - Grow A Forest — Digital Download"
-        ]
-      }
-    ]
-  },
-  {
-    "loc": [
-      "https://nurubian.com/store-2/p/1k-celebration"
-    ],
-    "changefreq": [
-      "monthly"
-    ],
-    "priority": [
-      "0.5"
-    ],
-    "lastmod": [
-      "2024-07-24"
-    ],
-    "image:image": [
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721819458551-44906V5YUSE728BJUGEQ/ael_1k_og.jpg"
-        ],
-        "image:title": [
-          "Store - 1K Celebration — Digital Download"
-        ]
-      }
-    ]
-  },
-  {
-    "loc": [
-      "https://nurubian.com/store-2/p/rejected-coco-boy"
-    ],
-    "changefreq": [
-      "monthly"
-    ],
-    "priority": [
-      "0.5"
-    ],
-    "lastmod": [
-      "2024-07-24"
-    ],
-    "image:image": [
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721819748299-ZJ72OKOGEPZ2YT13CQHW/ael_coco-rejected_og.jpg"
-        ],
-        "image:title": [
-          "Store - Rejected: Coco Boy — Digital Download"
-        ]
-      }
-    ]
-  },
-  {
-    "loc": [
-      "https://nurubian.com/store-2/p/d7hc567lnicsdutlgxg5mzjmuq7ypi"
-    ],
-    "changefreq": [
-      "monthly"
-    ],
-    "priority": [
-      "0.5"
-    ],
-    "lastmod": [
-      "2024-07-24"
-    ],
-    "image:image": [
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721820417586-U0L3EX3LZAYIHLQVROI4/ael_african-education_og.jpg"
-        ],
-        "image:title": [
-          "Store - African Education — Digital Download"
-        ]
-      }
-    ]
-  },
-  {
-    "loc": [
-      "https://nurubian.com/store-2/p/romance-in-tembisa"
-    ],
-    "changefreq": [
-      "monthly"
-    ],
-    "priority": [
-      "0.5"
-    ],
-    "lastmod": [
-      "2024-07-24"
-    ],
-    "image:image": [
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721820674349-NXS5H4SSMQRW4C3GNY96/ael_romance-ine-tembisa_poster.jpg"
-        ],
-        "image:title": [
-          "Store - Romance in Tembisa — Digital Download"
+          "Store - Like Father, Like Son — Digital Download"
         ]
       }
     ]
@@ -1085,7 +1064,7 @@
   },
   {
     "loc": [
-      "https://nurubian.com/store-2/p/like-father-like-son-digital-download"
+      "https://nurubian.com/store-2/p/romance-in-tembisa"
     ],
     "changefreq": [
       "monthly"
@@ -1099,18 +1078,170 @@
     "image:image": [
       {
         "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721824584278-OP8QPZ2FYT8L2E5OZCAV/ael_like-father-like-son_poster.jpg"
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721820674349-NXS5H4SSMQRW4C3GNY96/ael_romance-ine-tembisa_poster.jpg"
         ],
         "image:title": [
-          "Store - Like Father, Like Son — Digital Download"
+          "Store - Romance in Tembisa — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/d7hc567lnicsdutlgxg5mzjmuq7ypi"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721820417586-U0L3EX3LZAYIHLQVROI4/ael_african-education_og.jpg"
+        ],
+        "image:title": [
+          "Store - African Education — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/rejected-coco-boy"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721819748299-ZJ72OKOGEPZ2YT13CQHW/ael_coco-rejected_og.jpg"
+        ],
+        "image:title": [
+          "Store - Rejected: Coco Boy — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/1k-celebration"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721819458551-44906V5YUSE728BJUGEQ/ael_1k_og.jpg"
+        ],
+        "image:title": [
+          "Store - 1K Celebration — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/grow-a-forest"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721819310968-YXE3R78D8RVKCEVOQBLB/ael_grow-a-forest_og.jpg"
+        ],
+        "image:title": [
+          "Store - Grow A Forest — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/tembisa-market"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721818609170-E5356YX37OHUQAZVK026/ael_tembisa-market_poster.jpg"
+        ],
+        "image:title": [
+          "Store - Tembisa Market  — Digital Download"
         ]
       },
       {
         "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721824730813-4XONXN1E48GV7COJXCIS/ael_like-father-like-son_og.jpg"
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721818619451-GC18C9FQNHAUHL53XSJ2/ael_tembisa-market_og.jpg"
         ],
         "image:title": [
-          "Store - Like Father, Like Son — Digital Download"
+          "Store - Tembisa Market  — Digital Download"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/store-2/p/sankofa"
+    ],
+    "changefreq": [
+      "monthly"
+    ],
+    "priority": [
+      "0.5"
+    ],
+    "lastmod": [
+      "2024-07-24"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721818052660-KWXDPW6F3X3GA9PZ3Y9E/ael-sakofa-poster.jpg"
+        ],
+        "image:title": [
+          "Store - Sankofa — Digital Download"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1721817764217-L6AQQGXAP9LDCBVKSDRZ/ael-sankofa-og.jpg"
+        ],
+        "image:title": [
+          "Store - Sankofa — Digital Download"
         ]
       }
     ]
