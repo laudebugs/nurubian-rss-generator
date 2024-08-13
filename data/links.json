@@ -930,6 +930,68 @@
   },
   {
     "loc": [
+      "https://nurubian.com/grow-a-forest-1"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-08-10"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/ed75edf8-cad7-428f-bd85-7a0825bfedcc/star_shield-arch_cover_the-nurubian.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1712955229234-7CPW95IEVGN8ZWTPIJNM/img_informal-economy.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/46675b15-7e64-4202-89e8-7b198614ba0d/Situating-Africa-Within-the-Global-Sustainability-Agenda_1.png"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/the-great-african-marketplace-afcfta-and-africas-path-forward"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-08-12"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/ed75edf8-cad7-428f-bd85-7a0825bfedcc/star_shield-arch_cover_the-nurubian.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/54c83705-a5c9-48db-8376-cd3c5122f0b2/tembisa-tight-ropes.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1712955229234-7CPW95IEVGN8ZWTPIJNM/img_informal-economy.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
       "https://nurubian.com/store-2"
     ],
     "changefreq": [
