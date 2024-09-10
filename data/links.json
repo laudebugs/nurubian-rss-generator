@@ -919,7 +919,7 @@
   },
   {
     "loc": [
-      "https://nurubian.com/contributors/abdallah"
+      "https://nurubian.com/contributors/johan"
     ],
     "changefreq": [
       "daily"
@@ -928,14 +928,9 @@
       "0.75"
     ],
     "lastmod": [
-      "2024-09-05"
+      "2024-09-09"
     ],
     "image:image": [
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/b59b1073-f458-4c03-8121-a81eedf90213/abdallah-smith_image_2.png"
-        ]
-      },
       {
         "image:loc": [
           "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
@@ -943,7 +938,7 @@
       },
       {
         "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/df7c9c5d-3675-4729-b3d7-f2e561052bc8/coco_3XL.png"
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/48c845be-4849-4dc5-90bf-e6035725a3d5/apraku-anane-appiah_image_3.png"
         ]
       }
     ]
@@ -975,6 +970,120 @@
       {
         "image:loc": [
           "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/68a69937-a6b5-40d6-a001-3bfd965c07e4/img_the-reimagining-of-african-indigenous-education.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/contributors/abena"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-09-09"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/131fa0a4-4a3f-4d3e-be53-5603aaa1570c/abena-aidoo_image.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/contributors/iddah"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-09-09"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/15834643-4af6-4593-a305-586640164dd7/iddah-apondi_portrait_image_4-2.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1370a5b4-0a5b-4d99-be0d-397f7b53e570/4Artboard+6+copy-100.jpg"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/bb2646eb-766b-4c26-9710-fe22275e4fcf/3_women-and-trade.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/contributors/rocklyn"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-09-09"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/02924502-8b2f-421b-be46-49f5892c5165/rocklyn-frims_image.png"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/contributors/kwesi"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-09-09"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/65e02556-491e-4b2f-baf2-8f7637176b62/p-k_gyamfi_image_2.png"
         ]
       }
     ]
