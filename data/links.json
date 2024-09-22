@@ -867,7 +867,7 @@
   },
   {
     "loc": [
-      "https://nurubian.com/contributors/liam-furniss"
+      "https://nurubian.com/contributors/liam"
     ],
     "changefreq": [
       "daily"
@@ -876,7 +876,7 @@
       "0.75"
     ],
     "lastmod": [
-      "2024-09-05"
+      "2024-09-19"
     ],
     "image:image": [
       {
@@ -971,37 +971,6 @@
   },
   {
     "loc": [
-      "https://nurubian.com/contributors/celine"
-    ],
-    "changefreq": [
-      "daily"
-    ],
-    "priority": [
-      "0.75"
-    ],
-    "lastmod": [
-      "2024-09-05"
-    ],
-    "image:image": [
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
-        ]
-      },
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/b1a57364-ea27-44fa-9d09-a27fe804974d/celine-aju_image.png"
-        ]
-      },
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/68a69937-a6b5-40d6-a001-3bfd965c07e4/img_the-reimagining-of-african-indigenous-education.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "loc": [
       "https://nurubian.com/contributors/abena"
     ],
     "changefreq": [
@@ -1022,42 +991,6 @@
       {
         "image:loc": [
           "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
-        ]
-      }
-    ]
-  },
-  {
-    "loc": [
-      "https://nurubian.com/contributors/iddah"
-    ],
-    "changefreq": [
-      "daily"
-    ],
-    "priority": [
-      "0.75"
-    ],
-    "lastmod": [
-      "2024-09-09"
-    ],
-    "image:image": [
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/15834643-4af6-4593-a305-586640164dd7/iddah-apondi_portrait_image_4-2.png"
-        ]
-      },
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
-        ]
-      },
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1370a5b4-0a5b-4d99-be0d-397f7b53e570/4Artboard+6+copy-100.jpg"
-        ]
-      },
-      {
-        "image:loc": [
-          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/bb2646eb-766b-4c26-9710-fe22275e4fcf/3_women-and-trade.jpg"
         ]
       }
     ]
@@ -1090,7 +1023,7 @@
   },
   {
     "loc": [
-      "https://nurubian.com/contributors/kwesi"
+      "https://nurubian.com/contributors/kwasi"
     ],
     "changefreq": [
       "daily"
@@ -1099,7 +1032,7 @@
       "0.75"
     ],
     "lastmod": [
-      "2024-09-09"
+      "2024-09-21"
     ],
     "image:image": [
       {
@@ -1110,6 +1043,32 @@
       {
         "image:loc": [
           "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/65e02556-491e-4b2f-baf2-8f7637176b62/p-k_gyamfi_image_2.png"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/contributors/steph"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-09-19"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/34d6dd55-9336-40d3-b8f2-1e5d4bd6a111/steph-truong_image_2.png"
         ]
       }
     ]
