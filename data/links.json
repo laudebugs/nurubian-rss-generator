@@ -1072,5 +1072,96 @@
         ]
       }
     ]
+  },
+  {
+    "loc": [
+      "https://nurubian.com/public-sector-ai-readiness-the-case-of-sub-saharan-africa"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-10-01"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/ed75edf8-cad7-428f-bd85-7a0825bfedcc/star_shield-arch_cover_the-nurubian.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/ac1dd321-2aed-40aa-be4e-aa66ffd31e5b/image3.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/6ecead77-ad0b-4850-9f35-434f5eb9ea46/image5.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/79ad29d1-7ee1-4253-80b2-f01da680624b/image10.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/ac0de6c6-8d9b-4e61-bbaa-a28068fa2253/image8.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/3ce9d38d-e7a6-4b87-b008-912d68778373/image1.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/6a81f9cc-0131-48f2-bdc4-36b35097c878/image4.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/3614d3ba-4412-4d04-b059-aa2033a26197/image7.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9b515a90-00a2-425a-af72-11f3de361dde/image12.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/941b69d7-0630-4492-b3d2-c59a3ecd78a7/image2.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/6301b935-1ce6-4ad4-be4b-3546b3f1eb60/image11.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/058c86c9-95e0-4fd3-b8a5-e79c3060c956/image9.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1f7d8b9b-cf72-431f-a69f-35b07bd8d8bb/image6.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/54c83705-a5c9-48db-8376-cd3c5122f0b2/tembisa-tight-ropes.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/1712955229234-7CPW95IEVGN8ZWTPIJNM/img_informal-economy.jpg"
+        ]
+      }
+    ]
   }
 ]
