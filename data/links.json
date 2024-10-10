@@ -971,6 +971,37 @@
   },
   {
     "loc": [
+      "https://nurubian.com/contributors/celine"
+    ],
+    "changefreq": [
+      "daily"
+    ],
+    "priority": [
+      "0.75"
+    ],
+    "lastmod": [
+      "2024-10-08"
+    ],
+    "image:image": [
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/9c2d9174-6800-4669-848c-64d68c6d066a/32Artboard+104%403x.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/3745c73f-0033-48ce-9aa7-98ee08726164/celine-aju_image.png"
+        ]
+      },
+      {
+        "image:loc": [
+          "https://images.squarespace-cdn.com/content/v1/635e9774cac71a07377df098/68a69937-a6b5-40d6-a001-3bfd965c07e4/img_the-reimagining-of-african-indigenous-education.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "loc": [
       "https://nurubian.com/contributors/abena"
     ],
     "changefreq": [
